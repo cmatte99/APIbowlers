@@ -27,7 +27,7 @@
 //        [HttpGet("teams")]
 //        public IEnumerable<Teams> GetTeams()
 //        {
-//            return _bowlersRepository.GetTeams();
+//            return _bowlersRepository.GetTeamssdss();
 //        }
 //    }
 //}
